@@ -45,8 +45,7 @@ dev.off()
 
 
 ```
-### Figure 2
-![alt text](c:/Users/user/Documents/UNSW/HR data/Figure 2.jpeg "Figure 2")
+
 
 
 
