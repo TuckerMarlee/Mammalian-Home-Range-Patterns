@@ -48,7 +48,7 @@ dev.off()
 ```
 
 #### Figure 1
-![Figure 1](C:/Users/user/Documents/UNSW/HR data/Figure 1.jpeg)
+![Figure 1](C:/Users/user/Documents/UNSW/HR data/Figure 1.jpeg?raw=true)
 
 ### Plotting home range versus body mass and diet for all species.
 
@@ -89,7 +89,7 @@ dev.off()
 ```
 
 #### Figure 2
-![Figure 2](C:/Users/user/Documents/UNSW/HR data/Figure 2.jpeg)
+![Figure 2](C:/Users/user/Documents/UNSW/HR data/Figure 2.jpeg?raw=true)
 
 ### Plotting home range versus body mass and environment for carnivorous species.
 
@@ -133,4 +133,4 @@ dev.off()
 ```
 
 #### Figure 3
-![Figure 3](C:/Users/user/Documents/UNSW/HR data/Figure 3.jpeg)
+![Figure 3](C:/Users/user/Documents/UNSW/HR data/Figure 3.jpeg?raw=true)
